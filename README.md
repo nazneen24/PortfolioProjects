@@ -1,2 +1,2 @@
 # PortfolioProjects
- [Tableau Dashboard] (![image](https://github.com/nazneen24/PortfolioProjects/assets/156899677/09a25eb7-84bb-4406-978c-6086b1327bd1))
+ [Tableau Dashboard] (https://public.tableau.com/views/Assignment_16992053442820/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
